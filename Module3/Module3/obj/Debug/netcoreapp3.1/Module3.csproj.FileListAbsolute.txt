@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/bin/Debug/netcoreapp3.1/Module3.deps.json
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/bin/Debug/netcoreapp3.1/Module3.runtimeconfig.json
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/bin/Debug/netcoreapp3.1/Module3.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/bin/Debug/netcoreapp3.1/Module3.dll
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/bin/Debug/netcoreapp3.1/Module3.pdb
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.dll
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.pdb
+/Users/antonio/Desktop/CS133 Project/Module3/Module3/obj/Debug/netcoreapp3.1/Module3.genruntimeconfig.cache
